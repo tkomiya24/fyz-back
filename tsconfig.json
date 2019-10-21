@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./lib",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "target": "es6",
+        "module": "commonjs"
+    },
+    "files": [
+        "./src/index.ts"
+    ]
+}
